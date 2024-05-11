@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"pins.h": "c",
+			"tmcstepper.h": "c"
+		}
+	}
+}
